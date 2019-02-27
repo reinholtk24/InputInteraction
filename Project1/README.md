@@ -6,7 +6,9 @@
 * Project 1 - Input Interaction
 * Authors
 	* Abigale Zimmerman-Niefield
-	* Kyle Reinholt 
+	* Kyle Reinholt
+* Video Demonstration
+	* https://drive.google.com/open?id=1TGOkc7DVXQ9CdicWtVT9kgs-XnlzeTSh
 * Sources Utilized 
 	* blob detection web-app: http://tangiblejs.com/posts/tracking-color-blobs-in-webcam-feed-using-tracking-js
 	* synthesizer js library: https://tonejs.github.io/
@@ -27,4 +29,5 @@ This theremin requires a little bit of setup to use. You must enable the browser
 
 **Gyro Theremin**  
 *Implemented by Abigail Zimmerman-Niefield*  
+
 When activated, simply move your device around and you see alpha, beta, gamma values print to the screen in realtime. As you orient your device in different ways, you will experience different note frequencies and volumes. 
