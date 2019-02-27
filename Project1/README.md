@@ -21,9 +21,10 @@ The purpose of this project was to make a web application that was responsive an
 The interface consists of two buttons that will activate each implementation. You can press a button by clicking or tapping the button on a touch display. Refer below for instructions about each theremin type. 
 
 **Webcam Theremin**  
+*Implemented by Kyle Reinholt*  
 
 This theremin requires a little bit of setup to use. You must enable the browser to access your webcam after clicking the button to turn the camera on. The next step is to click or press a color on the canvas in order for the theremin to work. Set the threshold to refine the bounding box for the prefered object to tracked. The canvas will now track that object. As you move in the x direction, different notes will play. As you move in the y direction, the volume will increase. 
 
 **Gyro Theremin**  
-
+*Implemented by Abigail Zimmerman-Niefield*  
 When activated, simply move your device around and you see alpha, beta, gamma values print to the screen in realtime. As you orient your device in different ways, you will experience different note frequencies and volumes. 
