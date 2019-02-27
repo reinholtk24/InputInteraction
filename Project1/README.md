@@ -22,7 +22,7 @@ The interface consists of two buttons that will activate each implementation. Yo
 
 **Webcam Theremin**  
 
-This theremin requires a little bit of setup to use. You must enable the browser to access your webcam after clicking the button to turn the camera on. The next step is to click or press a color on the canvas in order for the theremin to work. Set the threshold so refine the bounding box for the prefered object to tracked. The canvas will now track that object. As you move in the x direction, different notes will play. As you move in the y direction, the volume will increase. 
+This theremin requires a little bit of setup to use. You must enable the browser to access your webcam after clicking the button to turn the camera on. The next step is to click or press a color on the canvas in order for the theremin to work. Set the threshold to refine the bounding box for the prefered object to tracked. The canvas will now track that object. As you move in the x direction, different notes will play. As you move in the y direction, the volume will increase. 
 
 **Gyro Theremin**  
 
